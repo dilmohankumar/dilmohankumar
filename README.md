@@ -19,6 +19,7 @@ I'm a true coffee enthusiast ☕ who believes great code starts with great coffe
 JavaScript | React | Node.js | Express.js | MongoDB | HTML5 | CSS3 | Git | VS Code
 
 📈 Github status
+
 [![Dilmohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilmohankumar&show_icons=true&theme=radical)](https://github.com/dilmohankumar/github-readme-stats)
 
 
@@ -27,7 +28,8 @@ JavaScript | React | Node.js | Express.js | MongoDB | HTML5 | CSS3 | Git | VS Co
 👉 https://github.com/dilmohankumar
 
 🧩 LeetCode Stats
-[![Dilmohan's LeetCode Stats](https://leetcard.jacoblin.cool/dilmohankumar?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/dilmohankumar/)
+
+[![Dilmohan's LeetCode Stats](https://leetcard.jacoblin.cool/Dilmohan?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Dilmohan/)
 
 
 🚀 Solving problems one challenge at a time:
