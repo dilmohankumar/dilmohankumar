@@ -18,7 +18,8 @@ I'm a true coffee enthusiast ☕ who believes great code starts with great coffe
 
 JavaScript | React | Node.js | Express.js | MongoDB | HTML5 | CSS3 | Git | VS Code
 
-📈 https://github-readme-stats.vercel.app/api?dilmohankumar=dilmohankumar)](https://github.com/dilmohankumar/github-readme-stats
+📈 [![Dilmohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilmohankumar)](https://github.com/dilmohankumar/github-readme-stats)
+
 
 📊 Check out my GitHub contributions and projects:
 👉 https://github.com/dilmohankumar
